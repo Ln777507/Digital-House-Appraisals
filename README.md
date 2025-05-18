@@ -37,16 +37,16 @@ Prospective buyers, sellers, and real estate agents struggle with:
 
 ### Key Variables
 
-| Variable          | Description                               |
-|-------------------|-------------------------------------------|
-| `longitude`       | Longitude of the property                 |
-| `latitude`        | Latitude of the property                  |
-| `housing_median_age` | Age of the property                     |
-| `total_rooms`     | Total number of rooms                     |
-| `population`      | Population in the district                |
-| `median_income`   | Median income of residents                |
-| `median_house_value` | House price (target variable)          |
-| `ocean_proximity` | Proximity to ocean (categorical)          |
+| Variable              | Description                                |
+|-----------------------|--------------------------------------------|
+| `longitude`           | Longitude of the property                  |
+| `latitude`            | Latitude of the property                   |
+| `housing_median_age` | Age of the property                        |
+| `total_rooms`         | Total number of rooms                      |
+| `population`          | Population in the district                 |
+| `median_income`       | Median income of residents                 |
+| `median_house_value`  | House price (target variable)              |
+| `ocean_proximity`     | Proximity to ocean (categorical variable)  |
 
 ---
 
@@ -99,7 +99,7 @@ Prospective buyers, sellers, and real estate agents struggle with:
 ## 📂 Files in This Repository
 
 - `housing 2.csv`: Cleaned housing data
-- `Homework_3_Eulojio.ipynb`: Jupyter notebook with data analysis & modeling
+- `Final_Capstone_Lenise_Nkwain.ipynb`: Jupyter notebook with data analysis & modeling
 - `Capstone project 1 - Copy-2.pdf`: Full project report
 - `Capstone 1 Slides.pdf`: Presentation slides
 
@@ -114,5 +114,3 @@ This project is released under the [MIT License](LICENSE) — free to use and mo
 ## 🤝 Acknowledgments
 
 Special thanks to the U.S. Census for the open dataset and all collaborators on the capstone project.
-
-
